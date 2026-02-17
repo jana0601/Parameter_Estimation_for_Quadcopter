@@ -8,6 +8,9 @@ Quadcopter_EKF_online_est
 Quadcopter_fullsensor_online_est
 Quadcopter_partsensor_online_est
 
+## Simulation
+![Drone](Quadcopter_EKF_off.png)
+
 ## Install Python requirements
 ```
 pip3 install -r requirements.txt
